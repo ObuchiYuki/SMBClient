@@ -1,0 +1,415 @@
+{
+  "" : {
+    "const-values" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient-master.swiftconstvalues",
+    "dependencies" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient-master.d",
+    "diagnostics" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient-master.dia",
+    "emit-module-dependencies" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient-master.swiftdeps"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Auth/Crypto.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Crypto.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Crypto.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Crypto.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Auth/NTLM.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NTLM.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NTLM.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NTLM.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/ByteReader.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/ByteReader.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/ByteReader.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/ByteReader.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Connection.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Connection.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Connection.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Connection.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/DCERPC/DCERPC.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/DCERPC.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/DCERPC.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/DCERPC.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/DCERPC/NetShareEnum.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NetShareEnum.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NetShareEnum.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NetShareEnum.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/FileProxy.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileProxy.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileProxy.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileProxy.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/FileReader.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileReader.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileReader.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileReader.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/FileTime.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileTime.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileTime.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileTime.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/FileWriter.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileWriter.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileWriter.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileWriter.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/InfoExtension.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/InfoExtension.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/InfoExtension.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/InfoExtension.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/AccessMask/AccessMask.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/AccessMask.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/AccessMask.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/AccessMask.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/AccessMask/DirectoryAccessMask.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/DirectoryAccessMask.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/DirectoryAccessMask.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/DirectoryAccessMask.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/AccessMask/FilePipePrinterAccessMask.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FilePipePrinterAccessMask.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FilePipePrinterAccessMask.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FilePipePrinterAccessMask.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Close+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Close+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Close+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Close+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Close.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Close.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Close.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Close.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Create+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Create+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Create+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Create+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Create.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Create.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Create.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Create.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Echo+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Echo+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Echo+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Echo+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Echo.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Echo.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Echo.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Echo.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Errors/ErrorResponse.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/ErrorResponse.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/ErrorResponse.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/ErrorResponse.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Errors/NTStatus.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NTStatus.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NTStatus.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/NTStatus.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileAttributes.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAttributes.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAttributes.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAttributes.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileAccessInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAccessInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAccessInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAccessInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileAlignmentInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAlignmentInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAlignmentInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAlignmentInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileAllInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAllInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAllInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileAllInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileBasicInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileBasicInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileBasicInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileBasicInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileDirectoryInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileDirectoryInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileDirectoryInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileDirectoryInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileDispositionInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileDispositionInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileDispositionInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileDispositionInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileEaInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileEaInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileEaInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileEaInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileIdBothDirectoryInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileIdBothDirectoryInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileIdBothDirectoryInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileIdBothDirectoryInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileInfoClass.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInfoClass.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInfoClass.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInfoClass.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileInformationClass.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInformationClass.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInformationClass.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInformationClass.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileInternalInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInternalInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInternalInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileInternalInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileModeInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileModeInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileModeInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileModeInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileNameInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileNameInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileNameInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileNameInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FilePositionInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FilePositionInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FilePositionInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FilePositionInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileRenameInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileRenameInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileRenameInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileRenameInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/FileStandardInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileStandardInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileStandardInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileStandardInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/InfoType.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/InfoType.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/InfoType.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/InfoType.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileInformationClasses/SecurityDescriptor.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SecurityDescriptor.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SecurityDescriptor.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SecurityDescriptor.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileSystemInformationClasses/FileFsDeviceInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsDeviceInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsDeviceInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsDeviceInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileSystemInformationClasses/FileFsLabelInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsLabelInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsLabelInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsLabelInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileSystemInformationClasses/FileFsSizeInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsSizeInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsSizeInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsSizeInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileSystemInformationClasses/FileFsVolumeInformation.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsVolumeInformation.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsVolumeInformation.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileFsVolumeInformation.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/FileSystemInformationClasses/FileSystemInfoClass.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileSystemInfoClass.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileSystemInfoClass.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/FileSystemInfoClass.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Header+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Header+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Header+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Header+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Header.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Header.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Header.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Header.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/IOCtl+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/IOCtl+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/IOCtl+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/IOCtl+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/IOCtl.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/IOCtl.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/IOCtl.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/IOCtl.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Logoff+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Logoff+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Logoff+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Logoff+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Logoff.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Logoff.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Logoff.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Logoff.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Message.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Message.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Message.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Message.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Negotiate+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Negotiate+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Negotiate+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Negotiate+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Negotiate.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Negotiate.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Negotiate.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Negotiate.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/QueryDirectory+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryDirectory+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryDirectory+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryDirectory+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/QueryDirectory.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryDirectory.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryDirectory.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryDirectory.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/QueryInfo+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryInfo+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryInfo+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryInfo+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/QueryInfo.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryInfo.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryInfo.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/QueryInfo.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Read+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Read+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Read+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Read+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Read.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Read.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Read.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Read.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/SessionSetup+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SessionSetup+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SessionSetup+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SessionSetup+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/SessionSetup.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SessionSetup.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SessionSetup.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SessionSetup.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/SetInfo+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SetInfo+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SetInfo+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SetInfo+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/SetInfo.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SetInfo.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SetInfo.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SetInfo.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/TreeConnect+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeConnect+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeConnect+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeConnect+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/TreeConnect.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeConnect.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeConnect.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeConnect.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/TreeDisconnect+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeDisconnect+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeDisconnect+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeDisconnect+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/TreeDisconnect.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeDisconnect.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeDisconnect.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeDisconnect.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Write+CustomDebugStringConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Write+CustomDebugStringConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Write+CustomDebugStringConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Write+CustomDebugStringConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Messages/Write.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Write.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Write.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Write.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Misc/BinaryConvertible.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/BinaryConvertible.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/BinaryConvertible.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/BinaryConvertible.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Misc/Data.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Data.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Data.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Data.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Misc/Pathname.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Pathname.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Pathname.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Pathname.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Misc/Semaphore.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Semaphore.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Semaphore.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Semaphore.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Misc/String.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/String.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/String.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/String.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Misc/UUID.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/UUID.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/UUID.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/UUID.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/SMBClient.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/SMBClient.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Session.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Session.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Session.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Session.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/Transport.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Transport.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Transport.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/Transport.o"
+  },
+  "/Users/yuki/Developer/MFileViewer/SMBClient/Sources/SMBClient/TreeAccessor.swift" : {
+    "index-unit-output-path" : "/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeAccessor.o",
+    "llvm-bc" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeAccessor.bc",
+    "object" : "/Users/yuki/Developer/MFileViewer/SMBClient/build/SMBClient.build/Release-iphoneos/SMBClient.build/Objects-normal/arm64/TreeAccessor.o"
+  }
+}

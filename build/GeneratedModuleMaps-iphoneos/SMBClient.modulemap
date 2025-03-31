@@ -1,0 +1,4 @@
+module SMBClient {
+header "SMBClient-Swift.h"
+export *
+}
